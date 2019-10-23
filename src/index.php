@@ -19,7 +19,7 @@ $render = "<form>
 <input type='text' name='login' value='$login'><br>
 <span>Password</span>
 <input type='password' name='password'><br>
-<span>Choose your language</span>
+<span>Choose your  language</span>
 <select>
     $option
 </select><br>
